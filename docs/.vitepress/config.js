@@ -3,6 +3,7 @@ export default {
   description: "Just playing around.",
   themeConfig: {
     siteTitle: "Andy's Blog",
+    base: "/blog/",
     nav: [
       { text: "GuideBook", link: "/guide" },
       { text: "Changelog", link: "https://github.com/Andyzealer" },
