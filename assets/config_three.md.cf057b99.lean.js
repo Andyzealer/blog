@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./app.c0010bee.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"config/three.md"}'),a={name:"config/three.md"};function o(c,n,s,i,p,_){return r(),t("div")}const m=e(a,[["render",o]]);export{f as __pageData,m as default};
