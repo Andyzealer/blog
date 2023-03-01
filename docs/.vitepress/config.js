@@ -10,9 +10,11 @@ export default {
     ],
     sidebar:[
         {
-          text: 'HTML',
+          text: 'Guide',
+          collapsed: true,
           items: [
-            { text: 'html', link: '/html/html' },
+            { text: 'guide', link: '/guide/' },
+            { text: 'one', link: '/guide/one' },
           ]
         }
       ]
