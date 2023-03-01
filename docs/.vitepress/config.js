@@ -1,6 +1,7 @@
 export default {
   title: "VitePress",
   description: "Just playing around.",
+  base:".",
   themeConfig: {
     siteTitle: "Andy's Blog",
     base: "/blog/",
