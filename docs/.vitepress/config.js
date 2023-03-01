@@ -1,7 +1,7 @@
 export default {
   title: "VitePress",
   description: "Just playing around.",
-  base:".",
+  base: "/blog/",
   themeConfig: {
     siteTitle: "Andy's Blog",
     nav: [
