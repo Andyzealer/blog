@@ -16,7 +16,20 @@ export default {
             { text: 'guide', link: '/guide/' },
             { text: 'one', link: '/guide/one' },
           ]
-        }
+        },
+        {
+          text: 'HTTP',
+          link:'/http'
+        },
+        {
+          text: 'Vue',
+          collapsed: false,
+          items: [
+            { text: 'Vue2', link: '/Vue/vue2' },
+            { text: 'Vue3', link: '/Vue/vue3' },
+            { text: 'Vuex', link: '/Vue/vuex' },
+          ]
+        },
       ]
   },
 };
