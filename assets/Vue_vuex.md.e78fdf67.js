@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./app.493ea5f8.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Vue/vuex.md"}'),r={name:"Vue/vuex.md"};function o(s,c,n,p,_,d){return a(),t("div")}const m=e(r,[["render",o]]);export{u as __pageData,m as default};
