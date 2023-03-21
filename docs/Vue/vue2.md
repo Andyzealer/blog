@@ -15,6 +15,7 @@ Compile主要做的事情是解析模板指令，将模板中变量替换成数�
 ## 生命周期
 ## Diff算法
 https://juejin.cn/post/6994959998283907102
+虚拟DOM算法操作真实DOM，性能高于直接操作真实DOM，虚拟DOM和虚拟DOM算法是两种概念。虚拟DOM算法 = 虚拟DOM + Diff算法
 ## computed 和 watch
 computed有缓存
 ## data为什么是一个函数
